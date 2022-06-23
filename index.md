@@ -1,4 +1,4 @@
 ---
-title: Welcome to my software blog! :broken_heart:
+title: Welcome to my software blog!
 ---
 
